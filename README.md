@@ -11,3 +11,7 @@
 - *User Input:* Prompt the user to specify the desired length and strength of the password.
 - *Generate Password:* Use a combination of random characters to generate a password of the specified length and strength.
 - *Display the Password:* Shows the generated password on the screen.
+## Task 3  | Calculator
+- *Design a simple calculator with basic arithmetic operations using GUI.*
+- *Give user the interface input any number and an operation choice.*
+- *Perform the calculation and display the result.*
